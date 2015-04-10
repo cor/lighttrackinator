@@ -1,0 +1,14 @@
+
+herhaal oneindig
+	scan sensor 1
+
+	scan sensor 2
+
+	if sensor 1 > 2
+		// ga naar links
+
+	else if sensor 2 < 1
+		// ga naar rechts
+
+	else sensor 2 == 1
+		// blijf recht door
